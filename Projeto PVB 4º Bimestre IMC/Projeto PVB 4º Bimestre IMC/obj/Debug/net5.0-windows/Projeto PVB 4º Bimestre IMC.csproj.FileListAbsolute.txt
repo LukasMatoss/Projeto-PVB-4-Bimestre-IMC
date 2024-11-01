@@ -1,0 +1,17 @@
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\Projeto_PVB_4º_Bimestre_IMC.Form1.resources
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.csproj.GenerateResource.cache
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.AssemblyInfoInputs.cache
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.AssemblyInfo.cs
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\bin\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.exe
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\bin\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.deps.json
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\bin\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.runtimeconfig.json
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\bin\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.runtimeconfig.dev.json
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\bin\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.dll
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\bin\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.pdb
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.dll
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\refint\Projeto PVB 4º Bimestre IMC.dll
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.pdb
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\Projeto PVB 4º Bimestre IMC.genruntimeconfig.cache
+C:\Users\lukas\source\Projetos c#\Projeto PVB 4º Bimestre IMC\Projeto PVB 4º Bimestre IMC\obj\Debug\net5.0-windows\ref\Projeto PVB 4º Bimestre IMC.dll
