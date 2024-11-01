@@ -69,29 +69,47 @@ namespace Projeto_PVB_4º_Bimestre_IMC
             double peso = float.Parse(textBox2.Text);
             double altura = float.Parse(textBox3.Text);
             double IMC = peso / Math.Pow(altura, 2); //calculo do IMC
+            string classificacao = "";
             textBox4.Text = IMC.ToString("00.00"); //impressão do imc formatado com 2 casas decimais
 
             if (IMC < 18.5) //Teste de condição para saber a classificação do nosso individuo
-                textBox5.Text = "Magreza";
+                classificacao = "Magreza";
             else if (IMC >= 18.5 && IMC <= 24.9)
-                textBox5.Text = "Saudável";
+                classificacao = "Saudável";
             else if (IMC >= 25.0 && IMC <= 29.9)
-                textBox5.Text = "Sobrepeso";
+                classificacao = "Sobrepeso";
             else if (IMC >= 30.0 && IMC <= 34.9)
-                textBox5.Text = "Obesidade Grau I";
+                classificacao = "Obesidade Grau I";
             else if (IMC >= 35.0 && IMC <= 39.9)
-                textBox5.Text = "Obesidade Grau II";
+                classificacao = "Obesidade Grau II";
             else
-                textBox5.Text = "Obesidade Grau III";
+                classificacao = "Obesidade Grau III";
 
+            textBox5.Text = classificacao;
+
+            SalvarDadosJson(nome, peso, altura, IMC, classificacao);
         }
 
-        
+        private void SalvarDadosJson(string nome, double peso, double altura, double IMC, string classificacao)
+        {
+            // Monta a estrutura JSON manualmente
+            string json = "{\n" +
+                          $"  \"nome\": \"{nome}\",\n" +
+                          $"  \"peso\": {peso},\n" +
+                          $"  \"altura\": {altura},\n" +
+                          $"  \"IMC\": {IMC.ToString("00.00")},\n" +
+                          $"  \"classificacao\": \"{classificacao}\"\n" +
+                          "}";
+
+            // Salva no arquivo
+            string caminho = @"C:\IMC\IMC.json";
+            File.WriteAllText(caminho, json);
+        }
+
 
         private void button5_Click(object sender, EventArgs e)
         {
-            string text = "Olá Testando";
-            File.WriteAllText(@"C:\teste json", text);
+         
         }
     }
 }
